@@ -6,6 +6,6 @@
 
 ## Links uteis
 
-[Sintaxe Basica Markdown]([Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax))
+([Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax))
 
-[LinkedIn]((https://www.linkedin.com/in/murilo-rodrigues-honorio-bueno-62268720b/))
+([Murilo Rodrigues Honorio Bueno | LinkedIn](https://www.linkedin.com/in/murilo-rodrigues-honorio-bueno-62268720b/))
